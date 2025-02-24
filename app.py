@@ -70,7 +70,7 @@ def main():
     # Sidebar with title and description
     st.sidebar.header("About")
     st.sidebar.write("For the CXC Datathon, we developed an innovative order forecasting application designed to address the TouchBistro Challenge. Our app leverages a machine learning model trained with historical order data to generate accurate forecasts for restaurants and venues. By inputting parameters such as the concept, city, and country, users can quickly obtain future order predictions. Our solution showcases how data-driven forecasting can be applied to real-world challenges in the foodservice industry.")
-    st.sidebar.markdown("### [See our project files](https://discord.com/channels/@me/1337846893199364287)")
+    st.sidebar.markdown("### [See our project files](https://github.com/zhsarah92/forkast)")
 
     # Add a model download link in the sidebar 
     model_download_url = "https://drive.google.com/uc?export=download&id=18srWcM5xms9Fd4HFWKItkAYQypQS0AYe"
